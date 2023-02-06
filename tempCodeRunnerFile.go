@@ -1,1 +1,1 @@
-nSum
+intSum
