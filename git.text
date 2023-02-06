@@ -1,0 +1,7 @@
+git status(for added file in green A , and deleted red, modified green U)
+
+git add .(add all new changes)
+
+git commit -m "message to git"( for commit)
+
+git push(to push the code)
